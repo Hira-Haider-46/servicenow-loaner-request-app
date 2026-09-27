@@ -7,7 +7,7 @@
         <condition/>
         <controlled_by_refs/>
         <decision_type>allow</decision_type>
-        <description>Allow create for records in x_1899125_loaner_0_loaner_request, for users with role x_1899125_loaner_0.admin.</description>
+        <description>Allow create for records in x_1899125_loaner_0_loaner_request, for users with role x_1899125_loaner_0.user.</description>
         <local_or_existing>Existing</local_or_existing>
         <name>x_1899125_loaner_0_loaner_request</name>
         <operation display_value="create">create</operation>
@@ -15,16 +15,16 @@
         <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-09-22 18:53:48</sys_created_on>
-        <sys_id>62f5eb6c93a78790e7643d6efaba1088</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_created_on>2026-09-27 12:53:20</sys_created_on>
+        <sys_id>7ae20c52932b83d0e7643d6efaba1049</sys_id>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>x_1899125_loaner_0_loaner_request</sys_name>
         <sys_package display_value="Loaner Request" source="x_1899125_loaner_0">3ca20fe493a38790e7643d6efaba1075</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">3ca20fe493a38790e7643d6efaba1075</sys_scope>
-        <sys_update_name>sys_security_acl_62f5eb6c93a78790e7643d6efaba1088</sys_update_name>
+        <sys_update_name>sys_security_acl_7ae20c52932b83d0e7643d6efaba1049</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-09-22 18:53:49</sys_updated_on>
+        <sys_updated_on>2026-09-27 14:20:36</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
