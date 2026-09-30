@@ -4,6 +4,7 @@
         <element label="End Date" mandatory="true" max_length="255" name="end_date" type="glide_date_time"/>
         <element label="Pick up Reminder" max_length="255" name="pick_up_reminder" type="glide_date_time"/>
         <element label="Requested For" mandatory="true" max_length="32" name="reuested_for" reference="sys_user" type="reference"/>
+        <element label="Other" max_length="50" name="other" type="string"/>
         <element label="Location to be used" max_length="40" name="location_to_be_used" type="string"/>
         <element choice="3" default="cmdb_ci_computer" label="Type of Item" max_length="40" name="type_of_item" type="choice">
             <choice>
